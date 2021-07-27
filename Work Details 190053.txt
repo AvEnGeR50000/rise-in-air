@@ -1,0 +1,6 @@
+During the entire length of this project I have:
+1. Created various models used in the game like clouds, raindrop, umbrellas and scissors using blender.
+2. Added many changes to downloaded asset models used in the project.
+3. Added animation in some of the models using unity.
+4. Helped in the formation of powerups present in the game.
+5. Supplied inputs in the mainscene.
