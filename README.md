@@ -17,8 +17,8 @@ Build For the Project Rise IN Air: https://drive.google.com/drive/folders/1ROL6U
 GamePlay Video explaining details: \
 (same for all team members)\
 \
-Week 1 Submission Project (Divyansh Garg):  https://github.com/divigarg/evaluation-1 \
+Week 1 Submission Project (Adhiraj Sinha):  https://github.com/AvEnGeR50000/evaluation-1\
 \
-Week 1 Submission Project Video (Divyansh Garg): https://drive.google.com/file/d/1t_AkJb7c3Ra0IO2s4NdDJkU7n5hMCSDl/view?usp=sharing \
+Week 1 Submission Project Video (Adhiraj Sinha): https://drive.google.com/file/d/1Fkt3S2SrisHUIENyR3hHzCzcKGqHc3BP/view?usp=sharing \
 \
-My (Divyansh Garg) Contribution to the Game: https://docs.google.com/document/d/16vacu2hwIvGzUFokkTWaBuWT8vWsggcLbsqbvtNln38/edit
+My (Divyansh Garg) Contribution to the Game: https://drive.google.com/drive/folders/11H0WGoiSg5U_g4XNgCriIskFw0f05TJt?usp=sharing \
